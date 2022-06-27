@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611550283840",
+    "project_id": "e-commercial-firebase-78085",
+    "storage_bucket": "e-commercial-firebase-78085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611550283840:android:edd3be0ebb7ac58eae37a5",
+        "android_client_info": {
+          "package_name": "com.example.e_commercial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611550283840-a2tmbef3q7ft6ki0g136af7opfhgqdad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB52JG9orvJa-Q62CSFmAz82h517LEgMDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611550283840-a2tmbef3q7ft6ki0g136af7opfhgqdad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
